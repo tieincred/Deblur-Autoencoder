@@ -1,6 +1,4 @@
-# KROOP AI ASSIGNMENT 
-
-Openvino model server + Flask API Pipeline for analysis of person wait time near the elevator.
+# High Resolution conversion using Auto-Encoder 
 
 ## Steps to run the program ##
  
